@@ -1,9 +1,9 @@
-## Hello there!!
-🤗👋🏽 My name's Natalia, but let's go with just Talia. I'm a Software Engineer in the making and am currently learning and increasing my abilities in JavaScript.
+## Hello there!! 👋🏽
+🤗 My name's Natalia, but let's go with just Talia. I'm a Software Engineer in the making and am currently learning and increasing my abilities in JavaScript.
 
 - ✨ Pronouns: she/her
 
-- 📫 How to reach me: [...](https://www.linkedin.com/in/taliareis/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/taliareis/)
 
 - 💜 Things I Love / About me:
 
