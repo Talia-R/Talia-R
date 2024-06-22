@@ -3,14 +3,19 @@
 <!--
 **Talia-R/Talia-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ✨Pronouns: she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤗👋🏽Hello there!! My name's Natalia, but let's go with just Talia. I'm a Software Engineer in the making and am currently learning and increasing my abilities in JavaScript.
+
+- 📫 How to reach me: [...](https://www.linkedin.com/in/taliareis/)
+
+- 💜 Things I Love / About me:
+
+🎧 I couldn't imagine a world without music. I'm always listening to some; it molds my emotions throughout the day, and I love it.
+
+📚 I'm a bookaholic, so if I'm not studying, I'm probably reading fantasy books (my favorites, I'm guilty).
+
+🐶🦄🐱 I love animals, which influenced me to become a vegetarian when I was a teenager.
+
+🎹🚴🏽‍♀️ Learning new things: It took me a while to realize that what I really like is learning new things. Since then, I’ve tried to give myself new challenges, like learning to play the piano, new languages, and my greatest challenge right now is to learn how to ride a bicycle.
 -->
