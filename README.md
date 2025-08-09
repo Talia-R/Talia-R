@@ -16,8 +16,5 @@
 🎹🚴🏽‍♀️ Learning new things: It took me a while to realize that what I really like is learning new things. Since then, I’ve tried to give myself new challenges, like learning to play the piano, new languages, and my greatest challenge right now is to learn how to ride a bicycle.
 
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talia-R&show_icons=true&theme=radical&hide_rank=true&hide_border=true" alt="GitHub stats">
-</div>
 
 
