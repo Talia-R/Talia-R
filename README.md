@@ -1,6 +1,8 @@
 # 👋🏼 Hello there, I'm Talia!  
 
-🎓 Software Engineering student | 💻 Focused on Java | 💼 [LinkedIn](https://www.linkedin.com/in/taliareis/)   | 📧 [natalia.1067@hotmail.com](mailto:natalia.1067@hotmail.com)
+🎓 Software Engineering student | 💻 Focused on Java | 💼 [LinkedIn](https://www.linkedin.com/in/taliareis/)  | 📧 [natalia.1067@hotmail.com](mailto:natalia.1067@hotmail.com)
+
+
  
 
 ---
