@@ -29,12 +29,12 @@
   </div>
 
 </div>
+
 ---
 
 ## 📫 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/taliareis/)  
 - 📧 natalia.1067@hotmail.com 
-
 ---
 
 ## 💜 Fun Facts  
