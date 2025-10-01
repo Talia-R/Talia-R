@@ -29,16 +29,6 @@
   </div>
 
 </div>
-
----
-
-## 📌 Projects
-
-- [Project 1 - Book Management System](https://github.com/Talia-R/BookManagement) – CRUD project with Java + Spring Boot
-- [Project 2 - Food Ordering System](https://github.com/Talia-R/FoodOrderingSystem) – REST API for managing foods and orders
-- [PetCare Manager](https://github.com/Talia-R/PetCareManager) – API for managing pet health history.
-- [Project 4 - Bikcraft](https://github.com/Talia-R/Bikcraft) – Built with HTML/CSS/JavaScript, focusing on responsive design and modern web development concepts.
-
 ---
 
 ## 📫 Let's Connect  
