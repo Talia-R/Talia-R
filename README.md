@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently improving my skills in **Java, Spring Boot and JavaScript**  
+- 🔭 Currently improving my skills in **Java, Spring Boot and React**  
 - 🌱 Interested in **backend development, APIs, and web applications**  
 - 📚 Passionate about continuous learning, problem-solving, and teamwork  
 
@@ -20,7 +20,7 @@
 
   <div>
     
-  - **Languages:** Java, JavaScript, HTML+CSS  
+  - **Languages:** Java, JavaScript (React), HTML+CSS  
   - **Frameworks & Tools:** Spring Boot, Git, GitHub  
   - **Databases:** MySQL  
   - **Other Interests:** REST APIs, Clean Code, Software Architecture  
